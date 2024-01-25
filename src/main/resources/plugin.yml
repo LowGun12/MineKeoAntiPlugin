@@ -1,0 +1,6 @@
+name: MineKeoAntiPlugin
+version: '${project.version}'
+main: me.logan.minekeoantiplugin.MineKeoAntiPlugin
+api-version: 1.20
+authors: [ Logan ]
+description: Plugin to stop players seeing you plugin list
